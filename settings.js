@@ -40,7 +40,7 @@ global.autoTyping = false //auto tying in gc (true to on, false to off)
 global.autoreadpmngc = false //auto reading in gc and pm (true to on, false to off)
 global.autoReadGc = false //auto reading in gc (true to on, false to off)
 global.autoRecord = false //auto recording (true to on, false to off)
-global.available = true //auto available (true to on, false to off)
+global.available = false //auto available (true to on, false to off)
 
 //semt menu variants
 global.vidmenu = fs.readFileSync("./XeonMedia/theme/Cheems-bot.mp4") //gif and video menu
@@ -61,16 +61,16 @@ global.socialm = "insta: bwaby_6.0" //ur github or insta name
 global.location = "Mali" //ur location
 
 //bot bomdy 
-global.owner = ['263780699988']
-global.ownertag = '263780699988' //ur tag number
-global.botname = 'BayMax Bot V5' //ur bot name
+global.owner = ['22395064497']
+global.ownertag = '22395064497' //ur tag number
+global.botname = 'BayMax Bot V4' //ur bot name
 global.linkz = "https://chat.whatsapp.com/C5D6zr2NFQGC1UCAlgFlqY" //your theme url which will be displayed on whatsapp
 global.websitex = "https://chat.whatsapp.com/C5D6zr2NFQGC1UCAlgFlqY" //ur website to be displayed
-global.botscript = 'https://www.instagram.com/mr_juice7' //script link
+global.botscript = 'https://www.instagram.com/bwaby.6.0' //script link
 global.reactmoji = "🐤" //ur menu react emoji
 global.themeemoji = "🏮" //ur theme emoji
 global.packname = "Made on Earth by the cool guy\n\n\n\n\n\n\n\n\n\n\n Mr Juice" //ur sticker watermark packname
-global.author = "🐤ᴹᴿ᭄ ᴊᴜɪᴄᴇོ ×፝֟͜×⁩" //ur sticker watermark author
+global.author = "𝑏𝑤𝑎𝑏𝑦𝑚𝑜𝑢𝑑𝑦♨︎" //ur sticker watermark author
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
@@ -79,7 +79,7 @@ global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
 global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
 
 //damtabase
-global.premium = ['263780699988'] //ur premium numbers
+global.premium = ['22395064497'] //ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
